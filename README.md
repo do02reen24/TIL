@@ -27,6 +27,7 @@
 
 ## 📋 ETC
 
+- [2021](https://github.com/do02reen24/TIL/blob/master/ETC/2021.md)
 - [이미지 파일 형식의 차이](https://github.com/do02reen24/TIL/blob/master/ETC/image.md)
 
 # 📚 그 외 좋은 자료
