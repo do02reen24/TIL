@@ -47,10 +47,10 @@ SNI 차단 기술은 HTTPS 접속 과정에서 클라이언트와 웹서버가 �
 
 ## 💌 참고
 
-https://terms.naver.com/entry.naver?docId=5911988&cid=42346&categoryId=42346
+- https://terms.naver.com/entry.naver?docId=5911988&cid=42346&categoryId=42346
 
-https://terms.naver.com/entry.naver?docId=6211852&cid=59277&categoryId=67996
+- https://terms.naver.com/entry.naver?docId=6211852&cid=59277&categoryId=67996
 
-https://terms.naver.com/entry.naver?docId=5756863&cid=43667&categoryId=43667
+- https://terms.naver.com/entry.naver?docId=5756863&cid=43667&categoryId=43667
 
-https://www.koit.co.kr/news/articleView.html?idxno=77947
+- https://www.koit.co.kr/news/articleView.html?idxno=77947

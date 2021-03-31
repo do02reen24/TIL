@@ -18,6 +18,9 @@
 ## 📋 Network
 
 - [SNI](https://github.com/do02reen24/TIL/blob/master/Network/SNI.md)
+- [TCP](https://github.com/do02reen24/TIL/blob/master/Network/TCP.md)
+- [OSI_7_Layer](https://github.com/do02reen24/TIL/blob/master/Network/OSI_7_Layer.pdf)
+- [기타 용어 및 개념](https://github.com/do02reen24/TIL/blob/master/Network/etc.md)
 
 ## 📋 Database
 
