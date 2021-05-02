@@ -6,7 +6,9 @@
 
 # 📚 CS STUDY
 
-## 📋 Javascirpt
+## 📋 JavaScirpt
+
+- [TypeScript](https://github.com/do02reen24/TIL/blob/master/JavaScript/typescript.md)
 
 ## 📋 Web
 
